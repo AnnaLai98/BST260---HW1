@@ -1,8 +1,7 @@
----
-title: "Homework 1: Data Wrangling"
-date: "Due 9/28/2020 by 11:59pm EST"
-output: html_document
----
+
+## Homework 1: Data Wrangling
+### Due 9/28/2020 by 11:59pm EST
+
 
 The 2009 H1N1 influenza pandemic, known more colloquially as the swine flu, swept much of the world between April 2009 and August 2010. First detected in the United States, the novel A(H1N1)pdm09 virus is most closely related to the North American swine-lineage H1N1 and Eurasian lineage swine-origin H1N1 influenza viruses. Unlike most seasonal influenza strains, it does not disproportionately infect adults older than 65. A vaccine was quickly developed and widely distributed by the late fall of 2009, but A(H1N1)pdm09 continues to circulate as a seasonal flu virus [[source]](https://www.cdc.gov/flu/pandemic-resources/2009-h1n1-pandemic.html). 
 
